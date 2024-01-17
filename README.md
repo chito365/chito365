@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Kemboi
-- 👀 Associate Developer
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 IT Support | Associate Developer | Maintenance | Azure | SAP
+- 🌱 I’m currently learning Software Architecture and Security for the IoT
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oscahchitoh@gmail.com
 
