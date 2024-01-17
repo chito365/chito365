@@ -6,7 +6,7 @@
 
   My works:
   MBTI personality typing tool: https://mbtilounge.com/
-  Free Soccer Livescore $ API : https://foregoal/
+  Free Soccer Livescore $ API : https://foregoal.com/
 
 <!---
 chito365/chito365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
