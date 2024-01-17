@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chito365
+- 👋 Hi, I’m Oscar Kemboi
 - 👀 Associate Developer
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on any project
