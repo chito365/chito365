@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oscahchitoh@gmail.com
 
-  My works:
+  ✨ My past and present works:
   MBTI personality typing tool: https://mbtilounge.com/
   Free Soccer Livescore $ API : https://foregoal.com/
 
