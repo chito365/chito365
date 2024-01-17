@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chito365
-- 👀 I’m interested in Web Development
+- 👀 Associate Developer
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oscahchitoh@gmail.com
