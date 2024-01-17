@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Kemboi
-- 👀 IT Support | Associate Developer | Maintenance | Azure | SAP
-- 🌱 I’m currently learning Software Architecture and Security for the IoT
+- 👀 IT Support | Associate Developer | Maintenance | Azure | SAP |Software Architecture and Security for the IoT
+- 🌱 I’m currently new language, SVENSKA SFI - Level C
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oscahchitoh@gmail.com
 
