@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oscahchitoh@gmail.com
 
-  ✨ My past and present works:
-  MBTI personality typing tool: https://mbtilounge.com/
-  Free Soccer Livescore $ API : https://foregoal.com/
+  ✨ More about me and my past and present works: https://chito365.github.io/2023/aboutme/
 
 <!---
 chito365/chito365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
